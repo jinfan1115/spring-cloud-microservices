@@ -5,7 +5,7 @@ eureka:
       defaultZone: http://localhost:8081/eureka/
 #配置端口
 server:
-  port: 8082
+  port: 9090
 
 #spring设置
 spring:
