@@ -12,6 +12,7 @@
         <module>cloud-fyang-discovery-eureka</module>
         <module>cloud-fyang-config</module>
         <module>cloud-fyang-config-repo</module>
+        <module>cloud-fyang-config-client</module>
     </modules>
 
     <parent>

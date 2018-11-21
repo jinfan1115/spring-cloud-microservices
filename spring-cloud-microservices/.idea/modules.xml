@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cloud-fyang-config/cloud-fyang-config.iml" filepath="$PROJECT_DIR$/cloud-fyang-config/cloud-fyang-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-fyang-config-client/cloud-fyang-config-client.iml" filepath="$PROJECT_DIR$/cloud-fyang-config-client/cloud-fyang-config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-fyang-discovery-eureka/cloud-fyang-discovery-eureka.iml" filepath="$PROJECT_DIR$/cloud-fyang-discovery-eureka/cloud-fyang-discovery-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-microservices.iml" filepath="$PROJECT_DIR$/spring-cloud-microservices.iml" />
     </modules>
